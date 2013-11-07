@@ -1,4 +1,4 @@
-# Browser cache as it applies to iframe assets
+# Caching and iframes
 
 We’re doing some testing around browser caching and assets requested by the “host” page as well as multiple iframes within that page, so I figured we may as well bring enough share with the rest of the class. More data to come.
 
