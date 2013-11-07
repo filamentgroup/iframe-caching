@@ -44,7 +44,7 @@ We’re doing some testing around browser caching and assets requested by the �
 
 These totals show WebKit-based browsers—iOS most notably—does not fetch the iframes’ contents from the cache on the first page load, despite having loaded the same file in the head of the index.html.
 
-Given that Firefox is somewhat unique in how it reports requests, we’ll do a more granular comparison between Chrome and iOS WebKit here.
+Given that Firefox/Firebug are somewhat unique in how they reports total aggregated requests, we’ll do a more granular comparison between Chrome and iOS WebKit here.
 
 ### Chrome (Current)
 
