@@ -1,5 +1,7 @@
 # Caching and iframes
 
+[![Filament Group](http://filamentgroup.com/images/fg-logo-positive-sm-crop.png) ](http://www.filamentgroup.com/)
+
 We’re doing some testing around browser caching and assets requested by the “host” page as well as multiple iframes within that page, so I figured we may as well bring enough share with the rest of the class. More data to come.
 
 ## Total Potential Requests (8):
